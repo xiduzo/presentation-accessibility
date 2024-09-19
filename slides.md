@@ -46,7 +46,7 @@ hideInToc: true
 ---
 
 _Close your eyes_
-# What do you _[hear]{style="color:#4466ff"}_
+# What do you [hear]{style="color:#4466ff"}
 
 ::right::
 
@@ -72,27 +72,27 @@ hideInToc: true
 ---
 
 _Accessible infrastructure_
-# What are _[your experiences]{style="color:#4466ff"}_
+# What are [your experiences]{style="color:#4466ff"}
 
 ---
 layout: statement
-title: The 🍕challenge
+title: The 🍕 challenge
 ---
 
 _The 🍕challenge_
-# Split into _[groups of 6]{style="color:#4466ff"}_ and learn the VoiceOver essentials
+# Split into [groups of 6]{style="color:#4466ff"} and learn the VoiceOver essentials
 
 make sure every team has some one with a Macbook
 <div v-click>find a relatively quiet space for your group and <em class="text-[#4466ff]">be back in 15 minutes</em></div>
 
 ---
 layout: statement
-title: The 🍕challenge
+title: The 🍕 challenge
 hideInToc: true
 ---
 
-_The 🍕challenge_
-# With your _[group of 6]{style="color:#4466ff"}_ try to order some pizzas
+_The 🍕 challenge_
+# With your [group of 6]{style="color:#4466ff"} try to order some pizzas
 
 <section class="flex items-center justify-between mt-20">
   <div class="text-center space-y-2">
@@ -115,18 +115,18 @@ hideInToc: true
 ---
 
 _The first group who makes it to the payment page wins_
-# _[The rules]{style="color:#4466ff"}_ of the 🍕 challenge
+# [The rules]{style="color:#4466ff"} of the 🍕 challenge
 
 ::left::
 
-## You are _[only]{style="color:#4466ff"}_ allowed to use
+## You are [only]{style="color:#4466ff"} allowed to use
 
 - A screen reader
 - A keyboard
 
 ::right::
 
-## In your cart, put _[at least]{style="color:#4466ff"}_ the following
+## In your cart, put [at least]{style="color:#4466ff"} the following
 
 - Pizza margherita
 - Pizza Hawaii
@@ -143,7 +143,7 @@ hideInToc: true
 ---
 
 _Reflection_
-# What did you _[observe]{style="color:#4466ff"}_
+# What did you [observe]{style="color:#4466ff"}
 
 
 ---
@@ -177,9 +177,9 @@ _Sued for_
 
 <v-clicks class="list-none">
 
-- Lack of _[alternative texts]{style="color:#4466ff"}_ for graphics
-- _[Empty hyperlinks]{style="color:#4466ff"}_ with no text to identify their purpose
-- _[Redundant links]{style="color:#4466ff"}_ that point to the same URL
+- Lack of [alternative texts]{style="color:#4466ff"} for graphics
+- [Empty hyperlinks]{style="color:#4466ff"} with no text to identify their purpose
+- [Redundant links]{style="color:#4466ff"} that point to the same URL
 
 </v-clicks>
 
@@ -191,7 +191,7 @@ image: /images/lawsuits.png
 ---
 
 _Now what_
-# Accessibility lawsuits are _[on the rise]{style="color:#4466ff"}_
+# Accessibility lawsuits are [on the rise]{style="color:#4466ff"}
 
 [Source](https://www.adatitleiii.com/2023/02/ada-title-iii-federal-lawsuits-numbers-are-down-but-likely-to-rebound-in-2023/)
 
@@ -208,8 +208,9 @@ hideInToc: true
 layout: image-right
 image: /images/EAA.jpg
 ---
+
 _Make Europe accessible again_
-# The _[European Acceccibility Act]{style="color:#4466ff"}_
+# The [European Acceccibility Act]{style="color:#4466ff"}
 ## (EAA)
 
 [Source](https://ec.europa.eu/social/main.jsp?catId=1202)
@@ -218,17 +219,18 @@ _Make Europe accessible again_
 hideInToc: true
 layout: fact
 ---
-_The European Accessibility Act_
-# Passed in _[2019]{style="color:#4466ff"}_
 
-Businesses have until June 28 2025 to implement the EAA’s accessibility measures.
+_The European Accessibility Act_
+# Passed in [2019]{style="color:#4466ff"}
+
+Businesses have until [June 28 2025]{style="text-decoration:underline"} to implement the EAA’s accessibility measures.
 
 ---
 hideInToc: true
 layout: fact
 ---
 _The European Accessibility Act_
-# Does _[not only]{style="color:#4466ff"}_ cover websites
+# Does [not only]{style="color:#4466ff"} cover websites
 
 ATMs, Ticketing- and check-in machines, E-readers, etc.
 
@@ -237,7 +239,7 @@ hideInToc: true
 layout: fact
 ---
 _The European Accessibility Act_
-# It _[will not]{style="color:#4466ff"}_ be retroactive*
+# It [will not]{style="color:#4466ff"} be retroactive*
 
 [* Is not fully defined just yet]{style="opacity:0.5"}
 
@@ -246,7 +248,7 @@ layout: fact
 hideInToc: true
 ---
 _The European Accessibility Act_
-# It will follow the _[WCAG guidelines]{style="color:#4466ff"}_
+# It will follow the [WCAG guidelines]{style="color:#4466ff"}
 
 ---
 layout: section
@@ -377,10 +379,10 @@ The user can identify content and interface elements by means of the senses
 <br/>
 <br/>
 
-- Are text sizes large enough?
-- Enough color contrast for text and interactive elements?
-- Another element used than color for conveying information?
-- Are text alternatives used for non textual content like images?
+- Are [text sizes]{style="color:#4466ff"} large enough?
+- Enough [color contrast]{style="color:#4466ff"} for text and interactive elements?
+- [Another element]{style="color:#4466ff"} used than color for conveying information?
+- Are [text alternatives]{style="color:#4466ff"} used for non textual content like images?
 </section>
 
 ---
@@ -413,9 +415,9 @@ A user can successfully use controls, buttons, navigation, and other interactive
 <br/>
 <br/>
 
-- Are interactive elements on a page big enough?
-- Can all element within a page be controlled by the keyboard? And is it clear where you are (focus state)?
-- Are headers/labels defined and do they describe the content below in a proper way?
+- Are [interactive elements]{style="color:#4466ff"} on a page big enough?
+- Can all element within a page be [controlled by the keyboard]{style="color:#4466ff"}? And is it clear where you are (focus state)?
+- Are [headers/labels]{style="color:#4466ff"} defined and do they describe the content below in a proper way?
 </section>
 
 ---
@@ -448,10 +450,10 @@ Users should be able to comprehend the content, and learn and remember how to us
 <br/>
 <br/>
 
-- When you use a page, does the context not change unexpectedly (animations)?
-- Does the page use understandable language?
-- Are input fields labelled and/or properly instructed?
-- No unnecessary elements on the page read out by screen readers?
+- When you use a page, does the context not change unexpectedly ([animations]{style="color:#4466ff"})?
+- Does the page use [understandable language]{style="color:#4466ff"}?
+- Are input fields labelled and/or [properly instructed]{style="color:#4466ff"}?
+- [No unnecessary elements]{style="color:#4466ff"} on the page read out by screen readers?
 </section>
 
 ---
@@ -483,10 +485,10 @@ Users should be allowed to choose their own technologies to access your content.
 <br/>
 <br/>
 
-- Make use of Semantic Markup
-- Proper use of ARIA tags, logical ordering of (DOM) elements makes content friendly for keyboard navigation and screen readers
-- Site should provide an usable interface even if JS/CSS fails to load
-- Responsive Design: designing for phone, tablets, large screens etc.
+- Make use of [Semantic Markup]{style="color:#4466ff"}
+- Proper use of [ARIA tags]{style="color:#4466ff"} and logical ordering of (DOM) elements makes content friendly for keyboard navigation and screen readers
+- Site should provide an usable interface [even if JS/CSS fails]{style="color:#4466ff"} to load
+- [Responsive Design]{style="color:#4466ff"}: designing for phone, tablets, large screens etc.
 </section>
 
 ---
@@ -509,6 +511,102 @@ hideInToc: true
 
 # « bonus break »
 
+---
+hideInToc: true
+---
+
+_Think outside of the 🐁_
+# Which forms of [user inputs]{style="color:#4466ff"} exist
+
+<section v-click>
+  <img src="/images/keyboard.png" class="absolute w-90 bottom-80 right-80 -z-20" />
+  <img src="/images/mouse.png" class="absolute w-30 right-160 bottom-110 -z-10" />
+</section>
+
+<section v-click>
+  <img src="/images/siri-google-alexa-cortana.png" class="absolute w-70 right-20 bottom-50" />
+  <img src="/images/touch-screen.png" class="absolute w-80 right-0 bottom-0" />
+</section>
+
+<section v-click>
+  <img src="/images/flight-controller-mouse.png" class="absolute w-50 bottom-10 right-120" />
+  <img src="/images/foot-pedals.png" class="absolute w-140 bottom-30 right-120" />
+</section>
+
+<section v-click>
+  <img src="/images/mouth-controller.png" class="absolute w-90 right-0 bottom-80" />
+</section>
+
+---
+hideInToc: true
+layout: iframe
+url: https://giphy.com/embed/ycpAvJgdP2WoBj1vZh
+---
+
+---
+hideInToc: true
+layout: statement
+---
+
+# Input devices & screen readers
+
+# [♥️]{style="color:red"}
+
+# [Accessible Rich Internet Applications]{style="font-size:50px"}
+[Source](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+
+---
+hideInToc: true
+layout: image
+image: /images/a11y.png
+---
+
+[Source](https://www.a11yproject.com/)
+
+---
+hideInToc: true
+layout: image
+image: /images/tim-berners-lee.png
+class: flex flex-col items-center justify-center
+---
+
+# a11y
+a -- ccessibilit -- y
+
+# i18n
+i -- nternationalizatio -- n
+
+# l10n
+l -- ocalizatio -- n
+
+---
+layout: quote
+hideInToc: true
+---
+
+_Tim berners-lee_
+# The power of the Web is in its universality. Access by everyone [regardless of disability]{style="color:#4466ff"} is an essential aspect.
+
+---
+layout: quote
+hideInToc: true
+---
+
+_[motherfuckingwebsite.com](http://www.motherfuckingwebsite.com)_
+# \[…\] What I'm saying is that all the [problems]{style="color:#4466ff"} we have with websites are ones [we create ourselves]{style="color:#4466ff"}.
+<br/>
+
+# Websites aren't broken by default, they are functional, high-performing, and accessible.
+<br/>
+
+<h1 v-click>
+You break them.
+</h1>
+<br/>
+
+<h1 v-click>
+You son-of-a-bitch.
+</h1>
 
 ---
 ---
