@@ -15,7 +15,7 @@ layout: intro
 # Pizza party 🍕
 27th September 2024
 
-<iframe src="https://giphy.com/embed/Euep9OGNL0TutamVKS" width="480" height="400" v-click></iframe>
+<iframe src="https://giphy.com/embed/Euep9OGNL0TutamVKS" width="432" height="360"></iframe>
 
 ---
 hideInToc: true
@@ -29,7 +29,7 @@ _#gotcha_
 
 ::right::
 
-<iframe src="https://giphy.com/embed/hyyV7pnbE0FqLNBAzs" width="480" height="400" v-click></iframe>
+<iframe src="https://giphy.com/embed/hyyV7pnbE0FqLNBAzs" width="455" height="380"></iframe>
 
 ---
 layout: fact
@@ -563,14 +563,14 @@ layout: statement
 hideInToc: true
 layout: image
 image: /images/a11y-checklist.png
-backgroundSize: contain
+backgroundSize: cover
 ---
 
 ---
 hideInToc: true
 layout: image
 image: /images/a11y.png
-backgroundSize: contain
+backgroundSize: 120%
 ---
 
 [Source](https://www.a11yproject.com/)
@@ -858,7 +858,7 @@ layout: section
 ---
 
 ### Sanders' tips
-# What I have [observed in the wild]{style="color:#4466ff"}
+# What Sander has [observed in the wild]{style="color:#4466ff"}
 
 ---
 hideInToc: true
