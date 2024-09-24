@@ -78,7 +78,7 @@ hideInToc: true
 ---
 
 ### Accessible infrastructure
-# In our [digital infrastructure]{style="color:#4466ff"}
+# How about [digital infrastructure]{style="color:#4466ff"}
 
 [Source](https://wave.webaim.org/extension/)
 
@@ -100,7 +100,7 @@ hideInToc: true
 ---
 
 ### The 🍕 challenge
-# With your group of 6 <br/> [order some pizzas]{style="color:#4466ff"}
+# With your group <br/> [order some pizzas]{style="color:#4466ff"}
 
 <section class="flex items-center justify-between mt-20">
   <div class="text-center space-y-2">
@@ -238,7 +238,7 @@ layout: fact
 ### The European Accessibility Act
 # Passed in [2019]{style="color:#4466ff"}
 
-Businesses have until [June 28 2025]{style="text-decoration:underline"} to implement the EAA’s accessibility measures.
+Businesses have until [June 28 2025]{style="text-decoration:underline"} to implement the EAA’s measures
 
 ---
 hideInToc: true
@@ -353,7 +353,7 @@ transition: fade
 
 # WCAG
 
-Many of the technology challenges faced by disabled people/people with disabilities can be described using one of the [POUR]{style="color:#4466ff"} principles
+Many of the technological challenges for accessibility can be described using one of the [POUR]{style="color:#4466ff"} principles
 
 ::left::
 ## Perceivable
@@ -380,7 +380,7 @@ transition: fade
 
 # WCAG
 
-Many of the technology challenges faced by disabled people/people with disabilities can be described using one of the [POUR]{style="color:#4466ff"} principles
+Many of the technological challenges for accessibility can be described using one of the [POUR]{style="color:#4466ff"} principles
 
 ::left::
 ## [Perceivable]{style="color:#4466ff"}
@@ -416,7 +416,7 @@ transition: fade
 
 # WCAG
 
-Many of the technology challenges faced by disabled people/people with disabilities can be described using one of the [POUR]{style="color:#4466ff"} principles
+Many of the technological challenges for accessibility can be described using one of the [POUR]{style="color:#4466ff"} principles
 
 ::left::
 ## [Perceivable]{style="opacity:0.3"}
@@ -451,7 +451,7 @@ transition: fade
 
 # WCAG
 
-Many of the technology challenges faced by disabled people/people with disabilities can be described using one of the [POUR]{style="color:#4466ff"} principles
+Many of the technological challenges for accessibility can be described using one of the [POUR]{style="color:#4466ff"} principles
 
 ::left::
 ## [Perceivable]{style="opacity:0.3"}
@@ -486,7 +486,7 @@ hideInToc: true
 
 # WCAG
 
-Many of the technology challenges faced by disabled people/people with disabilities can be described using one of the [POUR]{style="color:#4466ff"} principles
+Many of the technological challenges for accessibility can be described using one of the [POUR]{style="color:#4466ff"} principles
 
 ::left::
 ## [Perceivable]{style="opacity:0.3"}
@@ -562,7 +562,15 @@ layout: statement
 ---
 hideInToc: true
 layout: image
+image: /images/a11y-checklist.png
+backgroundSize: contain
+---
+
+---
+hideInToc: true
+layout: image
 image: /images/a11y.png
+backgroundSize: contain
 ---
 
 [Source](https://www.a11yproject.com/)
@@ -682,7 +690,7 @@ hideInToc: true
 layout: section
 ---
 
-# At some point in their life [everyone]{style="color:#4466ff"} will experience a (temporary) disability
+# At some point in their life [everyone]{style="color:#4466ff"} will experience an (temporary) impairment.
 
 ---
 hideInToc: true
@@ -691,7 +699,7 @@ image: /images/persona-spectrum.png
 class: flex justify-end
 ---
 
-[Source](https://inclusive.microsoft.desig){style="color:black"}
+[Source](https://inclusive.microsoft.design){style="color:black"}
 
 ---
 hideInToc: true
@@ -777,15 +785,12 @@ _When purely illustrative_<br/>
 
 ---
 hideInToc: true
+layout: image
+image: /images/youtube-subs.png
 ---
 
-placeholder youtube subtitles
-
----
-hideInToc: true
----
-
-placeholder spotify transcript
+### Serve alternatives
+# 54.5%
 
 ---
 hideInToc: true
@@ -1047,6 +1052,7 @@ layout: fact
 ---
 hideInToc: true
 layout: fact
+transition: slide-left
 ---
 
 ### Takeaways
@@ -1054,3 +1060,17 @@ layout: fact
 <br/>
 
 ## [♥️]{style="color:#ff0000"}
+
+---
+hideInToc: true
+---
+
+### Down the rabbit hole
+
+- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [A11Y Project](https://www.a11yproject.com/)
+- [MDN Web Docs Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+- [WebAIM](https://webaim.org/)
+- [Some posters](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
+- [Microsoft Inclusive Design](https://inclusive.microsoft.design)
+- [TED talk -- The Internet's Accessibility Problem](https://www.youtube.com/watch?v=QWPWgaDqbZI)
