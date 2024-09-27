@@ -102,7 +102,7 @@ hideInToc: true
 ### The 🍕 challenge
 # With your group <br/> [order some pizzas]{style="color:#4466ff"}
 
-<section class="flex items-center justify-between mt-20">
+<section class="flex items-center justify-between mt-20 space-x-38">
   <div class="text-center space-y-2">
     <a href="https://pizzabeppe.nl" target="_blank" class="text-2xl">pizzabeppe.nl</a>
     <div class="text-xs italic">slick design</div>
@@ -112,7 +112,7 @@ hideInToc: true
     <div class="text-xs italic">seems shady</div>
   </div>
   <div class="text-center space-y-2">
-    <a href="https://newyorkpizza.nl" target="_blank" class="text-2xl">newyorkpizza.nl</a>
+    <a href="https://dominos.nl/" target="_blank" class="text-2xl">dominos.nl</a>
     <div class="text-xs italic">big company</div>
   </div>
 </section>
@@ -149,15 +149,6 @@ url: https://www.youtube.com/embed/wN-mZtbX2Pg?si=4mlkUoojmf3r06A9
 
 ---
 layout: statement
-hideInToc: true
----
-
-### Reflection
-# What did you [observe]{style="color:#4466ff"}
-
-
----
-layout: statement
 transition: slide-left
 ---
 
@@ -168,10 +159,18 @@ layout: statement
 hideInToc: true
 ---
 
+### Reflection
+# What did you [observe]{style="color:#4466ff"}
+
+---
+layout: statement
+hideInToc: true
+---
+
 # Why 🍕
 
 <section class="absolute w-96 top-8 right-16 text-xl" v-click>
-Guillermo Robles, <span class="text-[#4466ff]">who has a vision imapairment</span>, sued Domino’s in 2016 claiming he was unable to order pizza on his desktop or mobile device, despite using screen reading technology.
+Guillermo Robles, <span class="text-[#4466ff]">who has a vision impairment</span>, sued Domino’s in 2016 claiming he was unable to order pizza on his desktop or mobile device, despite using screen reading technology.
 </section>
 
 <section class="absolute w-72 bottom-32 left-20" v-click>
@@ -225,7 +224,7 @@ image: /images/EAA.jpg
 ---
 
 ### Make Europe accessible again
-# The [European Acceccibility Act]{style="color:#4466ff"}
+# The [European Accessibility Act]{style="color:#4466ff"}
 ## (EAA)
 
 [Source](https://ec.europa.eu/social/main.jsp?catId=1202)
@@ -238,7 +237,14 @@ layout: fact
 ### The European Accessibility Act
 # Passed in [2019]{style="color:#4466ff"}
 
-Businesses have until [June 28 2025]{style="text-decoration:underline"} to implement the EAA’s measures
+Businesses have until [June 28, 2025]{style="text-decoration:underline"} to implement the EAA’s measures
+
+---
+hideInToc: true
+layout: image
+image: /images/eaa-timeline.png
+backgroundSize: contain
+---
 
 ---
 hideInToc: true
@@ -930,6 +936,15 @@ hideInToc: true
   <button class="bg-red-500 text-white px-4 py-2 outline outline-red-500 rounded-md hover:bg-red-600 hover:outline-red-600 transition-all duration-300">Cancel reservation</button>
  </section>
 </article>
+
+---
+hideInToc: true
+layout: image
+image: /images/declaration-screen.jpeg
+---
+
+### Sander's tips
+# Make interactive elements [descriptive]{style="color:#4466ff"}
 
 ---
 hideInToc: true
