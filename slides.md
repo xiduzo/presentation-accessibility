@@ -635,13 +635,11 @@ layout: statement
 hideInToc: true
 ---
 
-# People, digital abilities, _patterns_ and behaviour all evolve over time.
+# People, digital abilities, <span class="italic bg-blue-700 px-3 py-1 -m-3 rounded-md">patterns</span> and behaviour all evolve over time.
 
 <br/>
 
 # Understand your users by [building with your users]{style="color:#4466ff"}, not just as an afterthought.
-
-<div class="w-62 h-18 bg-blue-500 absolute top-16 right-12 opacity-60 rounded-md -z-10"></div>
 
 ---
 layout: statement
