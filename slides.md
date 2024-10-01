@@ -635,7 +635,7 @@ layout: statement
 hideInToc: true
 ---
 
-# People, digital abilities, <span class="italic bg-blue-700 px-3 py-1 -m-3 rounded-md">patterns</span> and behaviour all evolve over time.
+# People, digital abilities, <span class="relative italic bg-blue-700 px-3 py-0.5 -my-2 -z-10 rounded-md">patterns</span> and behaviour all evolve over time.
 
 <br/>
 
